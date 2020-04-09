@@ -10,7 +10,7 @@ namespace H.E.R.M
     {
         private int Id;
         private string Nom_Complet;
-        private string Type;
+     
         public int id
         {
             get => id;
